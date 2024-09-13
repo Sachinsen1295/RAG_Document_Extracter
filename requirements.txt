@@ -25,4 +25,4 @@ tesseract
 streamlit
 pytesseract
 ocrmypdf
-pysqlite3-binary
+pysqlite3==0.5.3
