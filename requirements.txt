@@ -25,3 +25,4 @@ tesseract
 streamlit
 pytesseract
 ocrmypdf
+e .
