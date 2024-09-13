@@ -22,5 +22,6 @@ unstructured
 youtube-transcript-api
 langserve
 tesseract
+streamlit
 pytesseract
 ocrmypdf
